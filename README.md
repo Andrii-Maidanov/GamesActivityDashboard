@@ -40,7 +40,3 @@ You can view the completed dashboard on Tableau Public using the following link:
 - Tableau Public
 - CSV file with user activity data
 
-## How to Run
-1. Download the dataset and open Tableau Public.
-2. Follow the steps outlined in the tasks to create the visualizations.
-3. Customize the visualizations as needed to suit your analysis.
