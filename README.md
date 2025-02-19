@@ -32,7 +32,7 @@ This project involves creating visualizations in Tableau Public to analyze user 
 
 ## Visualization Example
 
-You can view the completed dashboard on Tableau Public using the following link:
+You can view the completed dashboard on Tableau Public using the following link: https://public.tableau.com/app/profile/andrii.maidanov/viz/GAMESACTIVITIES/Dashboard2
 
 [Games Activity Dashboard](https://public.tableau.com/views/Games_Activity_Viz/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
